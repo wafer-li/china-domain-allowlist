@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2023/09/12
+; Update Date: 2024/02/29
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -58,6 +58,7 @@
 *.3dmgame.com
 *.4399.com
 *.51.la
+*.51.net
 *.5173.com
 *.5173cdn.com
 *.51cto.com
@@ -107,6 +108,7 @@
 *.akarin.top
 *.aldwx.com
 *.aliapp.org
+*.alibaba-inc.com
 *.alibaba.com
 *.alibabacloud.com
 *.alibabausercontent.com
@@ -122,6 +124,7 @@
 *.aliyun.com
 *.aliyuncs.com
 *.aliyundrive.com
+*.aliyunpds.com
 *.allhistory.com
 *.alltuu.com
 *.amap.com
@@ -154,6 +157,7 @@
 *.augix.me
 *.autonavi.com
 *.awesome-hd.me
+*.axhub.im
 *.axshare.com
 *.axure.org
 *.axureux.com
@@ -189,6 +193,7 @@
 *.beisen.com
 *.beitaichufang.com
 *.bejson.com
+*.bendibao.com
 *.bible.com
 *.biliapi.com
 *.biliapi.net
@@ -289,12 +294,14 @@
 *.css.network
 *.ct10000.com
 *.ctrip.com
+*.cupfox.app
 *.d7vg.com
 *.damengxiang.me
 *.dandanplay.com
 *.dangdang.com
 *.daocloud.io
 *.datagrand.com
+*.dbankcdn.com
 *.ddos.cc
 *.ddrk.me
 *.deepin.com
@@ -350,6 +357,7 @@
 *.easou.com
 *.eastmoney.com
 *.ecitic.com
+*.edifier.com
 *.eebbk.com
 *.eeboard.com
 *.eggjs.org
@@ -371,9 +379,11 @@
 *.feng.com
 *.fengkongcloud.com
 *.fengniao.com
+*.ffalcon.com
 *.figma.cool
 *.figmachina.com
 *.figmacn.com
+*.fiio.com
 *.fir.im
 *.firefox.com
 *.fjgdwl.com
@@ -384,6 +394,7 @@
 *.flyertea.com
 *.fontke.com
 *.foundertype.com
+*.foxirj.com
 *.frdic.com
 *.freebuf.com
 *.freeziti.com
@@ -583,6 +594,7 @@
 *.kuaishou.com
 *.kuaizhan.com
 *.kugou.com
+*.kujiale.com
 *.kunlunaq.com
 *.kunlunar.com
 *.kunlunca.com
@@ -603,6 +615,7 @@
 *.kunlunta.com
 *.kunlunvi.com
 *.kunlunwe.com
+*.kyoceraconnect.com
 *.lackar.com
 *.lagou.com
 *.lanhuapp.com
@@ -644,6 +657,7 @@
 *.lolinet.com
 *.longzhu.com
 *.lucifr.com
+*.ludashi.com
 *.luogu.org
 *.luojilab.com
 *.luoo.net
@@ -689,8 +703,6 @@
 *.mi.com
 *.miaopai.com
 *.microbit.org
-*.microsoft.com
-*.microsoftpersonalcontent.com
 *.midifan.com
 *.mikanani.me
 *.minapp.com
@@ -714,6 +726,7 @@
 *.momoyu.cc
 *.moonvy.com
 *.morethan.tv
+*.motiff.com
 *.mozilla.org
 *.mp4ba.cc
 *.msftconnecttest.com
@@ -732,6 +745,7 @@
 *.myqcloud.com
 *.myzaker.com
 *.mzstatic.com
+*.naixue.com
 *.nanyangpt.com
 *.nature.com
 *.ncore.cc
@@ -756,7 +770,6 @@
 *.nyato.com
 *.obsapp.com
 *.oekaki.so
-*.office.com
 *.office.net
 *.office365.com
 *.okii.com
@@ -772,6 +785,7 @@
 *.oracle.com
 *.oray.com
 *.oray.net
+*.orayimg.com
 *.oschina.io
 *.oschina.net
 *.ourbits.club
@@ -779,13 +793,11 @@
 *.ourdvsss.com
 *.oursketch.com
 *.outlook.com
+*.pag.art
 *.paipai.com
 *.panda.tv
 *.panduoduo.net
 *.passthepopcorn.me
-*.paypal.com
-*.paypal.me
-*.paypalobjects.com
 *.pc6.com
 *.pcbeta.com
 *.pdcicons.ml
@@ -846,12 +858,15 @@
 *.qqurl.com
 *.qqzzz.net
 *.quanmingjiexi.com
+*.qudong.com
 *.qunar.com
+*.qweather.com
 *.qyer.com
 *.qyerstatic.com
 *.rapoo.com
 *.rarbg.to
 *.raychase.net
+*.realme.com
 *.redacted.ch
 *.renren.com
 *.renrenche.com
@@ -894,6 +909,7 @@
 *.shimo.im
 *.shiyanlou.com
 *.shssp.org
+*.shxibank.com
 *.shyywz.com
 *.sigmaaldrich.com
 *.sigujiexi.com
@@ -924,6 +940,7 @@
 *.songshuhui.net
 *.soso.com
 *.soufun.com
+*.sourcegcdn.com
 *.speedtest.net
 *.springer.com
 *.springerlink.com
@@ -948,6 +965,8 @@
 *.taihe.com
 *.takungpao.com
 *.talkingdata.com
+*.tangdou.com
+*.tangdouddn.com
 *.tanx.com
 *.taobao.com
 *.taobao.org
@@ -955,7 +974,9 @@
 *.tapdb.net
 *.tapimg.com
 *.taptap.com
+*.tbcache.com
 *.tcdn.qq.com
+*.tcl.com
 *.teambition.com
 *.teamviewer.com
 *.tencent-cloud.com
@@ -985,6 +1006,7 @@
 *.toushibao.com
 *.toutiao.com
 *.toutiao.io
+*.toutiaoimg.com
 *.tower.im
 *.trontv.com
 *.truevue.org
@@ -1012,7 +1034,6 @@
 *.uning.com
 *.upai.com
 *.upaiyun.com
-*.update.microsoft.com
 *.upyun.com
 *.ustclug.org
 *.uuu.moe
@@ -1067,8 +1088,8 @@
 *.wiley.com
 *.windows.com
 *.windowsupdate.com
-*.windowsupdate.microsoft.com
 *.wisenjoy.com
+*.wjx.top
 *.wodemo.com
 *.wolai.com
 *.woozooo.com
@@ -1084,6 +1105,8 @@
 *.xiachufang.com
 *.xiami.com
 *.xiami.net
+*.xiaoe-tech.com
+*.xiaoe-tools.com
 *.xiaohongshu.com
 *.xiaoka.tv
 *.xiaomark.com
@@ -1145,6 +1168,7 @@
 *.yuwantech.com
 *.yxt.com
 *.yy.com
+*.z-bank.com
 *.zaih.com
 *.zanata.org
 *.zanmeishi.com
@@ -1168,6 +1192,7 @@
 *.zhongguose.com
 *.zhuihd.com
 *.zhujike.com
+*.zijieapi.com
 *.zimuzu.tv
 *.zku.net
 *.znyj365.com
