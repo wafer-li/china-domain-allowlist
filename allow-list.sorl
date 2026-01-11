@@ -1,10 +1,10 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/12/01
+; Update Date: 2025/07/05
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-; IP 地址段
+; 内网 IP 地址段
 10.*.*.*
 100.64.*.*
 127.*.*.*
@@ -19,6 +19,7 @@
 *.0daydown.com
 *.0o0.ooo
 *.10010.com
+*.10086.com
 *.10086cloud.com
 *.114la.com
 *.114yygh.com
@@ -103,6 +104,7 @@
 *.air-matters.com
 *.air-matters.io
 *.airbnb.com
+*.aito.auto
 *.aiwebcom.com
 *.aixifan.com
 *.aizhan.com
@@ -119,6 +121,7 @@
 *.alibabausercontent.com
 *.alicdn.com
 *.alicloudccp.com
+*.alidns.com
 *.alikunlun.com
 *.alikunlun.net
 *.alimama.com
@@ -142,6 +145,7 @@
 *.ant.design
 *.antfin-inc.com
 *.antfin.com
+*.antgroup.com
 *.antpcdn.com
 *.anw.red
 *.anyway.fm
@@ -228,6 +232,7 @@
 *.btyingshi.com
 *.bumimi.com
 *.bybbs.org
+*.byd.com
 *.bytecdntp.com
 *.c5r.app
 *.ca001.com
@@ -310,6 +315,7 @@
 *.d7vg.com
 *.damengxiang.me
 *.dandanplay.com
+*.dangbei.com
 *.dangdang.com
 *.daocloud.io
 *.datagrand.com
@@ -342,6 +348,7 @@
 *.docer.com
 *.docin.com
 *.docschina.org
+*.doh.pub
 *.dopa.com
 *.douban.*
 *.douban.com
@@ -349,6 +356,9 @@
 *.doubanio.com
 *.doubleclick.net
 *.douyin.com
+*.douyincdn.com
+*.douyinliving.com
+*.douyinvod.com
 *.douyu.com
 *.douyutv.com
 *.doyoo.net
@@ -463,7 +473,6 @@
 *.hdbits.org
 *.hdchina.org
 *.hddolby.com
-*.hdfans.org
 *.hdhome.org
 *.hdsky.me
 *.hdslb.com
@@ -496,6 +505,7 @@
 *.huijistatic.com
 *.huijiwiki.com
 *.hujiang.com
+*.hunan-bank.com
 *.huomao.com
 *.hupu.com
 *.huxiu.com
@@ -538,6 +548,7 @@
 *.indienova.com
 *.infinitynewtab.com
 *.infoq.com
+*.insta360.com
 *.installbi.me
 *.intercomcdn.com
 *.ip-api.com
@@ -558,6 +569,7 @@
 *.iteye.com
 *.ithome.com
 *.itjuzi.com
+*.ixigua.com
 *.jandan.net
 *.java.com
 *.javaeye.com
@@ -697,6 +709,7 @@
 *.madsrevolution.net
 *.magi.com
 *.mail4geek.com
+*.mamecn.com
 *.manmanbuy.com
 *.maoyan.com
 *.maoyun.tv
@@ -725,9 +738,11 @@
 *.mgtv.com
 *.mi-img.com
 *.mi.com
+*.mianshiya.com
 *.miaopai.com
 *.microbit.org
 *.midifan.com
+*.mihoyo.com
 *.mikanani.me
 *.minapp.com
 *.mindstore.io
@@ -833,6 +848,7 @@
 *.phonegap100.com
 *.phpcomposer.com
 *.piaoquantv.com
+*.picc.com
 *.pingan.com
 *.pingwest.com
 *.planetmeican.com
@@ -888,6 +904,7 @@
 *.qudong.com
 *.qunar.com
 *.qweather.com
+*.qwen.ai
 *.qyer.com
 *.qyerstatic.com
 *.rapoo.com
@@ -928,6 +945,7 @@
 *.sdo.com
 *.seafile.com
 *.seele.tech
+*.seewo.com
 *.segmentfault.com
 *.sekorm.com
 *.servicewechat.com
@@ -993,6 +1011,7 @@
 *.talkingdata.com
 *.tangdou.com
 *.tangdouddn.com
+*.tangdouedn.com
 *.tanx.com
 *.taobao.com
 *.taobao.org
@@ -1005,6 +1024,7 @@
 *.tcl.com
 *.teambition.com
 *.teamviewer.com
+*.teandy.com
 *.tencent-cloud.com
 *.tencent-cloud.net
 *.tencent.com
@@ -1109,6 +1129,7 @@
 *.weiyun.com
 *.wenxiaobai.com
 *.westlakemuseum.com
+*.wey.com
 *.whatismyip.com
 *.wishingstarmoye.com
 *.wht.im
@@ -1130,9 +1151,11 @@
 *.xclient.info
 *.xdccpro.com
 *.xf9168.com
+*.xhscdn.com
 *.xiachufang.com
 *.xiami.com
 *.xiami.net
+*.xiaobien.com
 *.xiaoe-tech.com
 *.xiaoe-tools.com
 *.xiaohongshu.com
